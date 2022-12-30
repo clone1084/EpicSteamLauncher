@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32519.379
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicSteamLauncher", "EpicSteamLauncher\EpicSteamLauncher.csproj", "{74B67476-D761-40AD-B30D-2EC31109D33C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicGamesLauncher", "EpicGamesLauncher\EpicGamesLauncher.csproj", "{AB92884B-50E4-4D8C-B2F8-CA1BC04255FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74B67476-D761-40AD-B30D-2EC31109D33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74B67476-D761-40AD-B30D-2EC31109D33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74B67476-D761-40AD-B30D-2EC31109D33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74B67476-D761-40AD-B30D-2EC31109D33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB92884B-50E4-4D8C-B2F8-CA1BC04255FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB92884B-50E4-4D8C-B2F8-CA1BC04255FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB92884B-50E4-4D8C-B2F8-CA1BC04255FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB92884B-50E4-4D8C-B2F8-CA1BC04255FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
